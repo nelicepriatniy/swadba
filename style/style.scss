@@ -98,6 +98,7 @@ header {
     display: flex;
     align-items: center;
     margin-right: 21px;
+    opacity: .7;
 }
 
 .headerQuest__img {
@@ -628,8 +629,7 @@ header {
     line-height: 133.9%;
     text-transform: uppercase;
     color: #000000;
-    padding-left: 76px;
-    
+    padding-left: 22px;
 }
 
 .flags {
@@ -1824,6 +1824,7 @@ header {
     text-align: center;
     font-variant: small-caps;
     color: #323232;
+    margin-bottom: 43px
 }
 
 .whereSw-item {
@@ -2064,7 +2065,7 @@ footer {
     letter-spacing: -0.03em;
     color: #FFFFFF;
     
-
+    text-transform: none;
 }
 
 .footerQuest {
